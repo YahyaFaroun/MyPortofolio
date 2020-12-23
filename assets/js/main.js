@@ -26,7 +26,7 @@ html.forEach(element => {
                 <img src="${element.img}" alt="">
                 <div class="overlay">
                     <a href="${element.website_link}" target="_blank">Website</a>
-                    <a href="${element.github_link}">Github</a>
+                    <a href="${element.github_link}" target="_blank">Github</a>
                 </div>
             </div>
             <div>
@@ -45,7 +45,7 @@ js.forEach(element => {
                 <img src="${element.img}" alt="">
                 <div class="overlay">
                     <a href="${element.website_link}" target="_blank">Website</a>
-                    <a href="${element.github_link}">Github</a>
+                    <a href="${element.github_link}" target="_blank">Github</a>
                 </div>
             </div>
             <div>
@@ -64,7 +64,7 @@ react.forEach(element => {
                 <img src="${element.img}" alt="">
                 <div class="overlay">
                     <a href="${element.website_link}" target="_blank">Website</a>
-                    <a href="${element.github_link}">Github</a>
+                    <a href="${element.github_link}" target="_blank">Github</a>
                 </div>
             </div>
             <div>
@@ -82,8 +82,7 @@ node.forEach(element => {
             <div class="overlayBox">
                 <img src="${element.img}" alt="">
                 <div class="overlay">
-                    <a href="${element.website_link}" target="_blank">Website</a>
-                    <a href="${element.github_link}">Github</a>
+                    <a href="${element.github_link}" target="_blank">Github</a>
                 </div>
             </div>
             <div>
@@ -102,7 +101,7 @@ express.forEach(element => {
                 <img src="${element.img}" alt="">
                 <div class="overlay">
                     <a href="${element.website_link}" target="_blank">Website</a>
-                    <a href="${element.github_link}">Github</a>
+                    <a href="${element.github_link}" target="_blank">Github</a>
                 </div>
             </div>
             <div>
@@ -121,7 +120,7 @@ mongoDB.forEach(element => {
                 <img src="${element.img}" alt="">
                 <div class="overlay">
                     <a href="${element.website_link}" target="_blank">Website</a>
-                    <a href="${element.github_link}">Github</a>
+                    <a href="${element.github_link}" target="_blank">Github</a>
                 </div>
             </div>
             <div>

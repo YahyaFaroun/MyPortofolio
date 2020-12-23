@@ -71,22 +71,14 @@ const html = [
         "about": "-",
         "date": "Juni 2020"
     },
-    {
-        "title": "Designer Critique",
-        "img": "assets/img/01_html&css/design-critique.png",
-        "website_link": "https://yahyafaroun.github.io/20.Juni-Design-Cri",
-        "github_link": "https://github.com/YahyaFaroun/20.Juni-Design-Critique.git",
-        "about": "-",
-        "date": "Juni 2020"
-    },
-    {
-        "title": "Designer Shop",
-        "img": "assets/img/01_html&css/designer-shop.png",
-        "website_link": "https://yahyafaroun.github.io/20.August-DesignerShop-HTML-CSS-/",
-        "github_link": "https://github.com/YahyaFaroun/20.August-DesignerShop-HTML-CSS-.git",
-        "about": "Grid",
-        "date": "August 2020"
-    },
+    // {
+    //     "title": "Designer Shop",
+    //     "img": "assets/img/01_html&css/designer-shop.png",
+    //     "website_link": "https://yahyafaroun.github.io/20.August-DesignerShop-HTML-CSS-/",
+    //     "github_link": "https://github.com/YahyaFaroun/20.August-DesignerShop-HTML-CSS-.git",
+    //     "about": "Grid",
+    //     "date": "August 2020"
+    // },
     {
         "title": "Headphone",
         "img": "assets/img/01_html&css/headphones.png",
@@ -219,14 +211,14 @@ const js = [
     }
 ]
 const react = [
-    {
-        "title": "FAQ",
-        "img": "assets/img/05_react/faq.png",
-        "website_link": "https://faq-my.netlify.app/",
-        "github_link": "https://github.com/YahyaFaroun/20.August-FAQ-React-.git",
-        "about": "-",
-        "date": "August 2020"
-    },
+    // {
+    //     "title": "FAQ",
+    //     "img": "assets/img/05_react/faq.png",
+    //     "website_link": "https://faq-my.netlify.app/",
+    //     "github_link": "https://github.com/YahyaFaroun/20.August-FAQ-React-.git",
+    //     "about": "-",
+    //     "date": "August 2020"
+    // },
     {
         "title": "Banana Bank",
         "img": "assets/img/05_react/bank.png",
@@ -235,22 +227,22 @@ const react = [
         "about": "-",
         "date": "August 2020"
     },
-    {
-        "title": "Currency",
-        "img": "assets/img/05_react/currency.png",
-        "website_link": "https://confident-heisenberg-735775.netlify.app/",
-        "github_link": "https://github.com/YahyaFaroun/02.August_CurrencyAPI-React-.git",
-        "about": "-",
-        "date": "August 2020"
-    },
-    {
-        "title": "API",
-        "img": "assets/img/05_react/api.png",
-        "website_link": "https://api-my.netlify.app/",
-        "github_link": "https://github.com/YahyaFaroun/20.August_NewsApi-React-.git",
-        "about": "Fonts",
-        "date": "August 2020"
-    },
+    // {
+    //     "title": "Currency",
+    //     "img": "assets/img/05_react/currency.png",
+    //     "website_link": "https://confident-heisenberg-735775.netlify.app/",
+    //     "github_link": "https://github.com/YahyaFaroun/02.August_CurrencyAPI-React-.git",
+    //     "about": "-",
+    //     "date": "August 2020"
+    // },
+    // {
+    //     "title": "API",
+    //     "img": "assets/img/05_react/api.png",
+    //     "website_link": "https://api-my.netlify.app/",
+    //     "github_link": "https://github.com/YahyaFaroun/20.August_NewsApi-React-.git",
+    //     "about": "Fonts",
+    //     "date": "August 2020"
+    // },
     {
         "title": "Movies",
         "img": "assets/img/05_react/movies.png",
@@ -259,25 +251,25 @@ const react = [
         "about": "-",
         "date": "August 2020"
     },
-    {
-        "title": "News API",
-        "img": "assets/img/05_react/newsApi.png",
-        "website_link": "https://newsapi-my.netlify.app/",
-        "github_link": "https://github.com/YahyaFaroun/20.August-PicsumApi-React-.git",
-        "about": "-",
-        "date": "August 2020"
-    }
+    // {
+    //     "title": "News API",
+    //     "img": "assets/img/05_react/newsApi.png",
+    //     "website_link": "https://newsapi-my.netlify.app/",
+    //     "github_link": "https://github.com/YahyaFaroun/20.August-PicsumApi-React-.git",
+    //     "about": "-",
+    //     "date": "August 2020"
+    // }
 ]
 
 const node = [
-    {
-        "title": "Alvio",
-        "img": "assets/img/07_nodeJs/alivio.png",
-        "website_link": "",
-        "github_link": "https://github.com/YahyaFaroun/20.Sep_Alvio-NodeJS-.git",
-        "about": "Static",
-        "date": "August 2020"
-    },
+    // {
+    //     "title": "Alvio",
+    //     "img": "assets/img/07_nodeJs/alivio.png",
+    //     "website_link": "",
+    //     "github_link": "https://github.com/YahyaFaroun/20.Sep_Alvio-NodeJS-.git",
+    //     "about": "Static",
+    //     "date": "August 2020"
+    // },
     {
         "title": "Woodies",
         "img": "assets/img/07_nodeJs/nodeJs.png",
